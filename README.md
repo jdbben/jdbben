@@ -13,11 +13,15 @@
    <li>✅ I only write type-safe code and love using modern typescript frameworks</li>
    <li>💬 Ask me about: Web development, JavaScript, TypeScript, and creating interactive UI/UX designs.</li>
  </ul>
+ <br/>
  # Connect with me:
-[LinkedIn](https://www.linkedin.com/in/jamal-ddine-benrahmoune-038942339/), or via [Email](benrahmounjamaleddine@gamil.com).
+ <br/>
+ <a href="https://www.linkedin.com/in/jamal-ddine-benrahmoune-038942339/">LinkedIn</a>, or via <a href="benrahmounjamaleddine@gamil.com">Email</a>.
 <br/>
 <br/>
 # Languages and Tools:
+<br/>
+<br/>
 <a href="https://www.typescriptlang.org/" target="_blank" title="TypeScript">
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript" width="50" height="50">
 </a>
@@ -63,10 +67,6 @@
 <a href="https://www.docker.com/" target="_blank" title="Docker">
   <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" alt="Docker" width="50" height="50">
 </a>
-
-
-
-
 <br/>
 <br/>
 <br/>
