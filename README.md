@@ -69,7 +69,7 @@ Web development, JavaScript, TypeScript, and creating interactive UI/UX designs.
 <br/>
 <br/>
 # ⚡ Fun fact:
-I love creating apps that bring people closer, like [Datenight](https://date-night-tau.vercel.app/) Truth or Dare game for couples! ❤️
+I love creating apps that bring people closer, like <a href="https://date-night-tau.vercel.app">DateNight</a> Truth or Dare game for couples! ❤️
 - 🛠️ Technologies & Tools
 
 
