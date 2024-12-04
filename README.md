@@ -1,8 +1,6 @@
  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+👋)](https://git.io/typing-svg) 
 <br/>
-
 # Welcomm to my GitHub! I'm Jamal Eddine a passionate developer always eager to create, learn, and share.🌟
-<br/>
 <h2>I'm a self-taught Full-stack developer</h2> 
  <br/>
 
