@@ -1,19 +1,21 @@
-Hi there 👋
+ [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+👋)](https://git.io/typing-svg) 
 <br/>
-# Welcome to my GitHub! I'm Jamal Eddine
-A passionate developer always eager to create, learn, and share.🌟
-<br/>
-# I'm a self-taught Full-stack developer
-- 🚀 About Me
-- 🔭 Currently working on:
 
-Building awesome projects with TypeScript, Next.js, and more!
-- 🌱 Learning & Growing:
-Exploring advanced web development, animations with Canvas, and backend architecture.
-- 💬 Ask me about:
-Web development, JavaScript, TypeScript, and creating interactive UI/UX designs.
-# Connect with me:
+# Welcomm to my GitHub! I'm Jamal Eddine a passionate developer always eager to create, learn, and share.🌟
+<br/>
+<h2>I'm a self-taught Full-stack developer</h2> 
+ <br/>
+
+ <ul>
+   <li>🚀 About Me</li>
+   <li>🔭 Currently working on: Building awesome projects with TypeScript, Next.js, and more!</li>
+   <li>🌱 Learning & Growing: Exploring advanced web development, animations with Canvas, and backend architecture.</li>
+   <li>✅ I only write type-safe code and love using modern typescript frameworks</li>
+   <li>💬 Ask me about: Web development, JavaScript, TypeScript, and creating interactive UI/UX designs.</li>
+ </ul>
+ # Connect with me:
 [LinkedIn](https://www.linkedin.com/in/jamal-ddine-benrahmoune-038942339/), or via [Email](benrahmounjamaleddine@gamil.com).
+<br/>
 <br/>
 # Languages and Tools:
 <a href="https://www.typescriptlang.org/" target="_blank" title="TypeScript">
