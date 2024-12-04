@@ -13,6 +13,7 @@ Exploring advanced web development, animations with Canvas, and backend architec
 Web development, JavaScript, TypeScript, and creating interactive UI/UX designs.
 - 📫 How to reach me:
 [LinkedIn](https://www.linkedin.com/in/jamal-ddine-benrahmoune-038942339/), or via [Email](benrahmounjamaleddine@gamil.com).
+<br/>
 - ⚡ Fun fact:
 I love creating apps that bring people closer, like [Datenight](https://date-night-tau.vercel.app/) Truth or Dare game for couples! ❤️
 - 🛠️ Technologies & Tools
