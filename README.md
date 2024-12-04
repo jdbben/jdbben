@@ -1,5 +1,6 @@
 Hi there 👋
-Welcome to my GitHub! I'm Jamal Eddine, a passionate developer always eager to create, learn, and share.🌟
+<br/>
+# Welcome to my GitHub! I'm Jamal Eddine, a passionate developer always eager to create, learn, and share.🌟
 <br/>
 # I'm a self-taught Full-stack developer
 
