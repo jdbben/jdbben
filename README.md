@@ -5,6 +5,7 @@
  <br/>
 
  <ul>
+  <li>👨‍💻 I'm currently working on <a href="https://cryptoinfos.vercel.app/">CryptoInfos</a></li>
    <li>🚀 About Me</li>
    <li>🔭 Currently working on: Building awesome projects with TypeScript, Next.js, and more!</li>
    <li>🌱 Learning & Growing: Exploring advanced web development, animations with Canvas, and backend architecture.</li>
